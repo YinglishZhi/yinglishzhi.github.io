@@ -8,6 +8,7 @@ header-img: img/head.jpeg
 catalog: true
 tags:
     - LIFE
+    - 瞎嘚嘚
 ---
 
 ## 前言
